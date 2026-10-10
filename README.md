@@ -8,4 +8,4 @@ Run `MeshGPT_demo.ipynb` cell by cell in a notebook runtime with a GPU. It insta
 
 ## Licence
 
-The repository has no LICENSE file, so its licence is not stated.
+MIT. See [LICENSE](LICENSE).
